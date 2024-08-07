@@ -5,3 +5,4 @@ ci-en.dlsite.com
 www.oculus.com
 bitwarden.com
 drive.google.com
+dlsite.com
